@@ -1,6 +1,6 @@
  ## Hello world! 🌍
- • Olá, me chamo Jadson! ✌️
- • Atualmente sou estudante, Focado na Linguagem Java!!! 🎓
+ • Olá, me chamo Jadson! ✌️ <br/>
+ • Atualmente sou estudante, Focado na Linguagem Java!!! 🎓 <br/>
  • Busco uma oportunidade no mercado para me desenvolver! 🔭 
  
 
