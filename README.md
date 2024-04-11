@@ -1,4 +1,8 @@
-## Bem-vindo(a) ao perfil do Jadinho! 😁
+ ## Hello world! 🌍
+ • Olá, me chamo Jadson! ✌️
+ • Atualmente sou estudante, Focado na Linguagem Java!!! 🎓
+ • Busco uma oportunidade no mercado para me desenvolver! 🔭 
+ 
 
  <div>
    <a href="https://github.com/Jadsonperri">
