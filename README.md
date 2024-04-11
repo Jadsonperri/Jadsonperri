@@ -2,7 +2,6 @@
  Hi, My name is Jadson!👋
  <br/>
    • I'm currently a student, focused on Java!!! 🎓 <br/>
- <br/>
    • Looking for an opportunity in the market to develop myself! 🔭 
 
  <div>
