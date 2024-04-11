@@ -1,9 +1,9 @@
  ## Hello world! 🌍
- • Olá, me chamo Jadson! ✌️ <br/>
+ Hi, My name is Jadson!👋
  <br/>
- • Atualmente sou estudante, Focado na Linguagem Java!!! 🎓 <br/>
+   • I'm currently a student, focused on Java!!! 🎓 <br/>
  <br/>
- • Busco uma oportunidade no mercado para me desenvolver! 🔭 
+   • Looking for an opportunity in the market to develop myself! 🔭 
 
  <div>
    <a href="https://github.com/Jadsonperri">
