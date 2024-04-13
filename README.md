@@ -1,13 +1,13 @@
-<!--Texto inicial-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=D4E8F7&center=true&width=900&height=150&lines=Hello+There!+%F0%9F%9A%80;I'm+Jadson;Nice+to+see+you+around+here)](https://git.io/typing-svg)
-
-<!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Jadsonperri_/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadson-perri-8a5143238/)
+<!--Capa Inicial-->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFF&height=120&section=header"/>
+<p align="center">
  
-##
+ <h3 align="center"> Jadson Perri </h3>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack web and app developer;Analysis and Systems Development; Always learning new things!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=FFFF&" alt="Jadson Perri">
  
-<!-- Apresentação -->
+## 👨🏻‍🦱 About me
   Hi 👋, I'm Jadson Perri! A passionate developer student. 💻 
 <img  align="right" src="https://github.com/Jadsonperri/Jadsonperri/assets/156728897/fd3668e2-e669-466a-a024-3d23d4f7f9fd" width="200px">
 
@@ -36,11 +36,14 @@ Programming Languages | Tools & Frameworks | Libraries
 </div>
 
 ## 🗂 Portfolio
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AecioJose/AecioJose/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AecioJose/AecioJose/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AecioJose/AecioJose/output/github-contribution-grid-snake.svg">
-</picture>
 
 ## 👋🏻 Thanks for visiting my profile, see you next time!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jadsonperri&label=Profile%20views&color=0e75b6&style=flat" alt="Jadsonperri"/> </p>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center"src="https://profile-counter.glitch.me/{JadsonPerri}/count.svg"/></p> 
+<br>
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFF&height=120&section=footer"/>
