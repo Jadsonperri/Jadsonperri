@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack web and app developer;Analysis and Systems Development; Always learning new things!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=FFFF&" alt="Jadson Perri">
  
 ## 👨🏻‍🦱 About me
-  Hi 👋, I'm Jadson Perri! A passionate developer student. 💻 
+        Hi 👋 I'm Jadson Perri! A passionate developer student. 💻 
 <img  align="right" src="https://github.com/Jadsonperri/Jadsonperri/assets/156728897/fd3668e2-e669-466a-a024-3d23d4f7f9fd" width="200px">
 
   * 🌱 I’m currently studying Computer Science at Unifatecia. 💬
