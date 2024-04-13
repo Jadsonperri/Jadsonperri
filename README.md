@@ -4,12 +4,12 @@
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Jadsonperri_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadson-perri-8a5143238/)
- <a href = "mailto:Jadsonperr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 ##
  
 <!-- Apresentação -->
-  Hi 👋, I'm Jadson Perri! A passionate developer student. 💻
+  Hi 👋, I'm Jadson Perri! A passionate developer student. 💻 
+<img  align="right" src="https://github.com/Jadsonperri/Jadsonperri/assets/156728897/fd3668e2-e669-466a-a024-3d23d4f7f9fd" width="200px">
 
   * 🌱 I’m currently studying Computer Science at Unifatecia. 💬
 
@@ -35,4 +35,12 @@ Programming Languages | Tools & Frameworks | Libraries
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jadsonperri&layout=compact&langs_count=7&theme=swift">
 </div>
 
-## 🗂 Portfolio:
+## 🗂 Portfolio
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AecioJose/AecioJose/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AecioJose/AecioJose/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AecioJose/AecioJose/output/github-contribution-grid-snake.svg">
+</picture>
+
+## 👋🏻 Thanks for visiting my profile, see you next time!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jadsonperri&label=Profile%20views&color=0e75b6&style=flat" alt="Jadsonperri"/> </p>
