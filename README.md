@@ -4,6 +4,26 @@
 <p align="center">
 
 <img  align="right" src="https://github.com/Jadsonperri/Jadsonperri/assets/156728897/fd3668e2-e669-466a-a024-3d23d4f7f9fd" width="150px">
+
+<div align=left>
+<table>
+<tr>
+<td>
+ 
+Like me!
+[<a href="https://github.com/Jadsonperri/Readme-Like-Button/issues/new?assignees=&labels=like&template=like.yml&title=Add+new+like%21">👍🏻</a>]
+
+<sub><b><i>Like counter: 0</i></b></sub>
+<hr size=15px color="ff5733" width=80%>
+Like me, and unlike me!
+
+[<a href="https://github.com/ariary/Readme-Like-Button/issues/new?assignees=&labels=like-mutable&template=like-mutable.yaml&title=Add+new+like%21+%28mutable%29">👍🏻</a>]
+[<a href="https://github.com/ariary/Readme-Like-Button/issues/new?assignees=&labels=unlike-mutable&template=unlike-mutable.yml&title=I+want+to+Unlike%21">👎🏻</a>]
+<sub><b><i>Like counter: 0</i></b></sub>
+</td>
+</tr>
+</table>
+</div>
  
  <h3 align="center"> Jadson Perri </h3>
 </p>
