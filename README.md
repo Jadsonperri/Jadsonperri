@@ -11,7 +11,8 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack web and app developer;Analysis and Systems Development; Always learning new things!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=FFFF&" alt="Jadson Perri">
 
   
- 
+[![Twitter Follow](https://img.shields.io/twitter/follow/Jadsonperri?style=social)](https://twitter.com/intent/follow?screen_name=Jadsonperri) 
+[![GitHub followers](https://img.shields.io/github/followers/Jadsonperri?label=Follow&style=social)](https://github.com/Jadsonperri)  
 ## 👨🏻‍🦱 About me
 
   * 👋 Hi, I'm Jadson Perri! A passionate developer student. 💻  
