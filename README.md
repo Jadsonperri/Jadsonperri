@@ -31,9 +31,9 @@
 </details>
 
 ##  🔥 Skills
-Languages primary | Languages secondary | Tools & Frameworks | Libraries
-:- | :- | :- | :-
-<img src="https://skillicons.dev/icons?i=java&theme=light"> | <img src="https://skillicons.dev/icons?i=js,py,c&theme=light">| <img src="https://skillicons.dev/icons?i=html,css,vscode,visualstudio,idea"> | <img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue">
+Languages primary | Languages secondary |
+:- | :- |
+<img src="https://skillicons.dev/icons?i=js&theme=light"> | <img src="https://skillicons.dev/icons?i=py&theme=light">|
   
 ## 📊 GithubStats 
 <div align="center">
