@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:FFFFFF,50:CFCFCF,100:000000"/> <br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:FFFFFF,50:CFCFCF,100:000000"/>
 
 <div align="center">
   <img height="150" src="https://i.pinimg.com/originals/8d/d1/76/8dd176c04a07c37b80a640dbc73382ff.gif" />
-</div><br>
+</div>
 
 <div align="center">
   <b>`プ ロ グ ラ マ`</b>
@@ -10,7 +10,7 @@
     <br>
     Hey guys! I'm <b>Jadson Perri.</b>
   </samp>
-</div><br>
+</div>
 
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=VT323&color=bfbfbf&size=28&center=true&width=900&lines=Welcome+to+my+profile;Enjoy+your+stay" />
@@ -18,21 +18,21 @@
 
 <div align="center">
   <a href="https://github.com/Jadsonperri">
-    <img src="https://img.shields.io/badge/LIKE-DROP%20A%20LIKE-black?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/github/stars/Jadsonperri?style=for-the-badge&logo=github&label=Stars&color=black" />
   </a>
 </div>
 
-___
+---
 
 <details>
   <summary align="left">
-    <span style="font-size: 50px;"><b>🔎 More Info</b></span>
+    <span style="font-size: 32px;"><b>ℹ️ More Info</b></span>
   </summary>
 
   <br>
 
   <div align="center">
-    <samp><b>🤝 About Me:</b></samp>
+    <samp><b>👤 About Me:</b></samp>
   </div>
 
   <div align="center">
@@ -46,10 +46,10 @@ ___
   <br>
 
   <div align="center">
-    <samp><b>🤖 Linguagens e Tecnologias:</b></samp>
+    <samp><b>💻 Languages & Technologies:</b></samp>
   </div>
 
-  <div align="center" style="display: inline_block">
+  <div align="center">
     <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
     <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
     <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
@@ -63,7 +63,7 @@ ___
   <br>
 
   <div align="center">
-    <samp><b>📞 Contact me:</b></samp>
+    <samp><b>✉️ Contact:</b></samp>
   </div>
 
   <p align="center">
@@ -85,11 +85,11 @@ ___
   </p>
 </details>
 
-#
+---
 
 <details>
   <summary align="left">
-    <span style="font-size: 50px;"><b>📊 Estatísticas</b></span>
+    <span style="font-size: 32px;"><b>📑 Analytics</b></span>
   </summary>
 
   <div align="center">
@@ -100,15 +100,23 @@ ___
   </div>
 </details>
 
-#
+---
 
 <details>
   <summary align="left">
-    <span style="font-size: 50px;"><b>🗂️ Projetos</b></span>
+    <span style="font-size: 32px;"><b>💼 Projects</b></span>
   </summary>
 </details>
 
-___
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
+
+<br><br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jadsonperri&style=flat-square&color=000000&label=Profile+Views" />
