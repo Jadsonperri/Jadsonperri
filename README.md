@@ -1,55 +1,115 @@
-<!--Capa Inicial-->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:FFFFFF,50:CFCFCF,100:000000"/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFF&height=120&section=header"/>
-<p align="center">
+<br>
 
-<img  align="right" src="https://github.com/Jadsonperri/Jadsonperri/assets/156728897/fd3668e2-e669-466a-a024-3d23d4f7f9fd" width="150px">
+<div align="center">
+  <img align="center" height="150" src="https://i.pinimg.com/originals/8d/d1/76/8dd176c04a07c37b80a640dbc73382ff.gif" />
+</div>
 
- <h3 align="center"> Jadson Perri </h3>
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack web and app developer;Analysis and Systems Development; Always learning new things!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=FFFF&" alt="Jadson Perri">
+<div align="center">
+  
+  <b>`プ ロ グ ラ マ`</b>
+  <samp>
+      <br>
+      Hey guys! I'm <b>Jadson Perri.</b>
+  </samp>
+</div>
 
- [![](https://img.shields.io/github/stars/Jadsonperri?color=0b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=cxyfreedom&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn) 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Jadsonperri?style=social)](https://twitter.com/intent/follow?screen_name=Jadsonperri) 
-[![GitHub followers](https://img.shields.io/github/followers/Jadsonperri?label=Follow&style=social)](https://github.com/Jadsonperri)  
-## 👨🏻‍🦱 About me
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&color=bfbfbf&size=28&center=true&width=900&lines=Welcome+to+my+profile;Enjoy+your+stay" />
+</div>
 
-  * 👋 Hi, I'm Jadson Perri! A passionate developer student. 💻  
 
-  * 🌱 I’m currently studying Computer Science at Unifatecia. 💬
+<br>
 
-  * 🔭 I am looking for my first job opportunity. My dream is to one day work with Java. ♨️
+<div align="center">
 
-<!-- Detalhes -->
-<details>
-  <summary>👨‍💻 More about me</summary>
+[![Like](https://img.shields.io/badge/LIKE-DROP%20A%20LIKE-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jadsonperri)
 
-  * 💬 I am 23 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Java, Python and automation (Uipath). I'm also starting to create content on TikTok, Youtube and Twitter, which has helped me develop important skills like creativity, communication, marketing, analytical skills and social media.
+</div>
+   
+<br>
+      
+<div align="center">
+  <img height="165" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kamillyvm&hide_border=true&show_icons=true&rank_icon=github&title_color=7f9f7f&icon_color=7f9f7f&text_color=fff&bg_color=0d1117">
+  <img height="180" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasdonperr&layout=compact&hide_border=true&title_color=7f9f7f&text_color=fff&bg_color=0d1117">
+  <br>
+  <br>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jasdonperri&theme=zenburn"/>
+</div>
 
-  * ⚡ I enjoy watching movies, series and animes, as well as playing Soccer and listen to music! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+
+
+<div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Octave-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
+  
+</div>
+
+<br>
+<br>
+
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
+  
+<br>
+
+##
+
+<br>
+
+<div align="center">
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>
+
+  [![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kamillymedino2@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-123845?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/kamyzmedino/?next=%2F)
+  [![Discord](https://img.shields.io/badge/Discord-123845?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/8kc8HqXVw2)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kamilly-medino-b72a3b33a/)
+  
+</div>
+
+<div align="center">
+  <p align="center">
+      <samp>
+        ♡ <a href="https://rentry.co/kamillymedino">rentry</a> ⊹
+        <a href="https://linktr.ee/kamillyvm1">linktr.ee</a> ⊹
+        <a href="https://bykamillyvm.carrd.co/">carrd.co</a> ⊹
+        <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ♡
+      </samp>
+  </p>
+</div>
+<br>
+
 </details>
 
-##  🔥 Skills
-Languages primary | Languages secondary |
-:- | :- |
-<img src="https://skillicons.dev/icons?i=js&theme=light"> | <img src="https://skillicons.dev/icons?i=py&theme=light">|
-  
-## 📊 GithubStats 
-<div align="center">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Jadsonperri&show_icons=true&theme=swift&include_all_commits=true&count_private=true">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jadsonperri&layout=compact&langs_count=7&theme=swift">
-</div>
+##
 
-## 🗂 Portfolio
-
-## 👋🏻 Thanks for visiting my profile, see you next time!
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center"src="https://profile-counter.glitch.me/{JadsonPerri}/count.svg"/></p> 
 <br>
+
+<div align="center">
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=kamillyvm&style=flat-square&color=123845" /></p> 
 </div>
 
+<br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFF&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:FFFFFF,50:CFCFCF,100:000000"/>
