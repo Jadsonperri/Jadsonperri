@@ -31,13 +31,12 @@
 <br>
       
 <div align="center">
-  <img height="165" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kamillyvm&hide_border=true&show_icons=true&rank_icon=github&title_color=7f9f7f&icon_color=7f9f7f&text_color=fff&bg_color=0d1117">
-  <img height="180" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasdonperr&layout=compact&hide_border=true&title_color=7f9f7f&text_color=fff&bg_color=0d1117">
+  <img height="165" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jadsonperri&hide_border=true&show_icons=true&rank_icon=github&title_color=CCCCCC&icon_color=CCCCCC&text_color=FFFFFF&bg_color=2C2C2C">
+  <img height="180" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadsonperri&layout=compact&hide_border=true&title_color=CCCCCC&text_color=FFFFFF&bg_color=2C2C2C">
   <br>
   <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jasdonperri&theme=zenburn"/>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jadsonperri&theme=apprentice"/>
 </div>
-
 
 
 <div align="center" style="display: inline_block"><br>
